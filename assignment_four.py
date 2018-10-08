@@ -1,3 +1,9 @@
+# Jonathan Lin
+# 10/08/2018
+# if, else, and elif
+# Using if type commands to write functions to create a simplified version of Black Jack
+
+
 import random
 
 
@@ -62,5 +68,3 @@ def main():
 
 
 main()
-
-
